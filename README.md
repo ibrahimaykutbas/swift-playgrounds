@@ -1,3 +1,3 @@
 # Playgrounds
 
-Apple Playgrounds ile beraber yapılan egzersizler
+Apple Playgrounds ile beraber yapılan SwiftUI egzersizleri
